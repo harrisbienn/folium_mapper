@@ -7,7 +7,7 @@ DESCRIPTION:    This program allows the user to draw a bounding box polygon usin
 retrieve the coordinates as geojson.
 
 TO RUN:
-    -
+    - Optimized to run in Jupyter Notebook
 
 DATA FORMAT:    Manual input
 
