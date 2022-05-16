@@ -49,6 +49,7 @@ plugins.Geocoder(position='topright',
                  addmarker=True
                  ).add_to(m)
 
+#Enable Latitude and Longitude popups with mouse click
 features.LatLngPopup().add_to(m)
 
 # Allow map to be made full screen
