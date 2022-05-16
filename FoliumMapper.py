@@ -1,10 +1,10 @@
 """
-NAME:           Mapper.py
+NAME:           FoliumMapper.py
 
 COMPATIBILITY:  Python 3.10
 
 DESCRIPTION:    This program allows the user to draw a bounding box polygon using a mapping interface and
-retrieve the corner coordinates
+retrieve the coordinates as geojson.
 
 TO RUN:
     -
@@ -13,7 +13,7 @@ DATA FORMAT:    Manual input
 
 REQUIRES:       folium
 
-TODO:           1)
+TODO:          Optimized to run in Jupyter Notebook
 
 AUTHOR:         Harris Bienn
 
